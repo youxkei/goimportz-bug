@@ -1,0 +1,6 @@
+github.com/zchee/goimportz v1.1.0 h1:d3uMl5YaEByKELGRqCjJLPq6u0Heuh11GkrALwrK/f0=
+github.com/zchee/goimportz v1.1.0/go.mod h1:uMAFUmvaaGw4pX44LQNN6BCmqoSFGA219wFXkgrxndc=
+golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 h1:kQgndtyPBW/JIYERgdxfwMYh3AVStj88WQTlNDi2a+o=
+golang.org/x/sys v0.0.0-20220209214540-3681064d5158 h1:rm+CHSpPEEW2IsXUib1ThaHIjuBVZjxNgSKmBLFfD4c=
+golang.org/x/tools v0.1.10-0.20220209193526-c0b9fb59f72f h1:cLIbGjT0hsURAAKjuDXJN5gv+nfs3iO9G/tJwKp9X8E=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=

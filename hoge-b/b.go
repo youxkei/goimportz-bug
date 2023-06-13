@@ -1,0 +1,3 @@
+package hogeb
+
+func F() {}

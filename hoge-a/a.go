@@ -1,0 +1,3 @@
+package hogea
+
+func F() {}
